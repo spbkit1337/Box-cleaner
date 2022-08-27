@@ -1,0 +1,32 @@
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\BOX-CLEANER.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\BOX-CLEANER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.Form1.resources
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.Form2.resources
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\BOX-CLEANER.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\BOX-CLEANER.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.exe.manifest
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.application
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.exe.manifest
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.application
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\bin\Debug\Cleaner.exe.manifest
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\bin\Debug\Cleaner.application
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\BOX-CLEANER.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\BOX-CLEANER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\Cleaner.Form1.resources
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\Cleaner.Form2.resources
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\BOX-CLEANER.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\BOX-CLEANER.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\Cleaner.exe.manifest
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\Cleaner.application
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\Denis\Desktop\Мои программы\Исходный код\Cleaner\Cleaner\obj\Debug\Cleaner.pdb

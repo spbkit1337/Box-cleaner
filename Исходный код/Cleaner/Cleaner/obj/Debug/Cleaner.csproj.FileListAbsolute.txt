@@ -1,0 +1,12 @@
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.exe.config
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.exe
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\bin\Debug\Cleaner.pdb
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.Form1.resources
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.Properties.Resources.resources
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.exe
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.pdb
+C:\Users\Denis\Desktop\Cleaner\Cleaner\Cleaner\obj\Debug\Cleaner.Form2.resources

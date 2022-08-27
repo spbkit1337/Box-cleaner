@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOX-CLEANER", "Cleaner\BOX-CLEANER.csproj", "{2AD5F4C1-7941-4705-A28F-B569CA0A9FB4}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Box-cleaner setup", "..\cleaner-setup\Box-cleaner setup\Box-cleaner setup.vdproj", "{86F6E62F-F904-4C02-B39F-188D50D75092}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2AD5F4C1-7941-4705-A28F-B569CA0A9FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD5F4C1-7941-4705-A28F-B569CA0A9FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD5F4C1-7941-4705-A28F-B569CA0A9FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD5F4C1-7941-4705-A28F-B569CA0A9FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F6E62F-F904-4C02-B39F-188D50D75092}.Debug|Any CPU.ActiveCfg = Debug
+		{86F6E62F-F904-4C02-B39F-188D50D75092}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F7DAB7D-8987-4886-9FC5-A11B9939930F}
+	EndGlobalSection
+EndGlobal
