@@ -23,3 +23,7 @@
 Скриншот🤠
 
 ![Безымянный](https://user-images.githubusercontent.com/51737588/186444716-0cd27f54-942e-4295-aeda-c1b3a5dead55.jpg)
+
+Полезные ссылки🔗:
+
+1) Как программно очистить корзину  https://ourcodeworld.com/articles/read/124/how-to-clear-the-recycle-bin-programmatically-with-c-net
